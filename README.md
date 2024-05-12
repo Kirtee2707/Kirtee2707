@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Generative AI.
 - 💞️ Let's collaborate on Data Science Projects..
 - 📫 How to reach me .via
-- gmail : kirteeshukl@gmail.com..
+- Gmail : kirteeshukl@gmail.com..
 
 <!---
 Passionate about Data Science Projects! 🤓 Learning about Generative AI. 
