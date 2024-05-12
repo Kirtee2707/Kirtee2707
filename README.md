@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Kirtee2707
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Kirtee-Shukla
+- 👀 I’m interested in .Data Science Projects..
+- 🌱 I’m currently learning ..Generative AI.
+- 💞️ I’m looking to collaborate on .Data Science Projects..
+- 📫 How to reach me .via
+- gmail : kirteeshukl@gmail.com..
 
 <!---
 Kirtee2707/Kirtee2707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
