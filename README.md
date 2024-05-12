@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Kirtee-Shukla
-- 👀 I’m interested in .Data Science Projects..
-- 🌱 I’m currently learning ..Generative AI.
-- 💞️ I’m looking to collaborate on .Data Science Projects..
+- 👀 I’m interested in Data Science Projects..
+- 🌱 I’m currently learning Generative AI.
+- 💞️ Let's collaborate on Data Science Projects..
 - 📫 How to reach me .via
 - gmail : kirteeshukl@gmail.com..
 
 <!---
-Kirtee2707/Kirtee2707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Passionate about Data Science Projects! 🤓 Learning about Generative AI. 
+Open to collaborations on Data Science Projects! Proficient in Python, ML projects, and 6 months as a Software QA Engineer. 
+#DataScience #GenerativeAI #Python 🚀#Collaboration
 --->
